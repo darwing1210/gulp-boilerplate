@@ -1,0 +1,28 @@
+{
+  "name": "tndigital",
+  "description": "tndigital project",
+  "main": "./dist/js/scripts.min.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.min.css",
+        "dist/js/bootstrap.min.js"
+      ]
+    }
+  }
+}
