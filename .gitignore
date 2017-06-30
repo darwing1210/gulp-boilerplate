@@ -4,6 +4,9 @@ node_modules
 # Bower
 bower_components
 
+# Other
+dist
+
 ## OS X
 .DS_Store
 ._*
